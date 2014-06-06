@@ -23,3 +23,4 @@ html{
 }
 .curtains>li.hidden{display:none;}
 .curtains>li:first-child{z-index:2;}
+.curtains>li:last-child{box-shadow:none}
